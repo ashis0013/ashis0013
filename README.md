@@ -10,11 +10,7 @@ I am a newgrad software engineer and I have a keen interest in deep learning. I 
 
 ## Resume
 
-<object data="https://github.com/ashis0013/ashis0013/files/6630852/CV.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/ashis0013/ashis0013/files/6630852/CV.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<embed src="https://github.com/ashis0013/ashis0013/files/6630852/CV.pdf" width="500" height="375">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashis0013&layout=compact&theme=tokyonight)](https://github.com/ashis0013/github-readme-stats)
 
