@@ -9,7 +9,7 @@ I am a newgrad software engineer and I have a keen interest in deep learning. I 
 </div>
 
 ## Resume
-<iframe src="https://github.com/ashis0013/ashis0013/files/6630852/CV.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
+You can find my resume <a href="https://github.com/ashis0013/ashis0013/files/6630852/CV.pdf">here</a>.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashis0013&layout=compact&theme=tokyonight)](https://github.com/ashis0013/github-readme-stats)
 
