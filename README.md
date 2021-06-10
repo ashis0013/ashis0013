@@ -14,6 +14,7 @@ Until github markdown supports pdf embedding, you can find my resume <a href="ht
 ## Experience
 <div>
 <img src="https://user-images.githubusercontent.com/31564734/121517649-40792980-ca0d-11eb-94f0-41d0187266b2.gif" width="200px"></img>
+<br clear="left"/>
 Software Development Engineer at Compass
 July 2021 - Present
 </div>
