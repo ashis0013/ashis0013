@@ -6,6 +6,11 @@ I am a newgrad software engineer and I have a keen interest in deep learning. I 
 <a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/31564734/121515289-ab753100-ca0a-11eb-8674-0ce7508d3b5b.png" width="50px"></img></a>
 <a href="https://pytorch.org/"><img src="https://user-images.githubusercontent.com/31564734/121514394-98ae2c80-ca09-11eb-865f-c64044d9595b.png" width="50px"></img></a>
 <a href="https://www.cplusplus.com/"><img src="https://user-images.githubusercontent.com/31564734/121515036-53d6c580-ca0a-11eb-8fdc-4d8c49a42099.png" width="50px"></img></a>
+<a href="https://git-scm.com/"><img src="https://user-images.githubusercontent.com/31564734/121521260-79b39880-ca11-11eb-91cc-41c5ca71bdc9.png" width="50px"></img></a>
+<a href="https://nodejs.org/en/"><img src="https://user-images.githubusercontent.com/31564734/121521712-03636600-ca12-11eb-8e7f-04995886bcbd.png" width="50px"></img></a>
+<a href="https://www.java.com/en/"><img src="https://user-images.githubusercontent.com/31564734/121521131-512b9e80-ca11-11eb-87cd-523dd936eb76.png" width="50px"></img></a>
+<a href="https://developer.android.com/studio"><img src="https://user-images.githubusercontent.com/31564734/121521380-9ea80b80-ca11-11eb-8d00-08276842750d.png" width="50px"></img></a>
+<a href="https://www.mysql.com/"><img src="https://user-images.githubusercontent.com/31564734/121521596-e5960100-ca11-11eb-9f30-5c3c0550592f.png" width="50px"></img></a>
 </div>
 
 ## Resume
