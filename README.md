@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Ashis Paul
-I am a newgrad software engineer and I have a keen interest in deep learning. I currently work at <a href="https://www.compass.com/">Compass</a> as a SDE. I have done a handful of projects using deep learning frameworks (mostly pytorch) in python. You can find my works down below.
+I am a newgrad software engineer and I have a keen interest in deep learning. I currently work at <a href="https://www.compass.com/">Compass</a> as a SDE. I have done a handful of projects using deep learning frameworks (mostly pytorch) in python. Find me at [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ashis-paul-173479150//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='20'>](https://leetcode.com/paulashis0013/)  
 
 ## Skills
 <div>
