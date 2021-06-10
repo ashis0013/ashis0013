@@ -12,7 +12,9 @@ I am a newgrad software engineer and I have a keen interest in deep learning. I 
 Until github markdown supports pdf embedding, you can find my resume <a href="https://github.com/ashis0013/ashis0013/files/6630852/CV.pdf">here</a>.
 
 ## Experience
-<img src="https://user-images.githubusercontent.com/31564734/121517649-40792980-ca0d-11eb-94f0-41d0187266b2.gif" width="50px"></img>
+<img src="https://user-images.githubusercontent.com/31564734/121517649-40792980-ca0d-11eb-94f0-41d0187266b2.gif" width="200px"></img>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashis0013&layout=compact&theme=tokyonight)](https://github.com/ashis0013/github-readme-stats)
 
 ![Ashis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashis0013&show_icons=true&theme=tokyonight)
