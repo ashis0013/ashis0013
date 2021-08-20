@@ -26,6 +26,6 @@ Until github markdown supports pdf embedding, you can find my resume <a href="ht
 ## Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashis0013&theme=tokyonight)](https://github.com/ashis0013/github-readme-stats)
 
-![Ashis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashis0013&show_icons=true&theme=tokyonight)
+![Ashis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashis0013&show_icons=true&count_private=true&hide_rank=true&theme=tokyonight)
 
 
