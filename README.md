@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Ashis Paul
 
-Me code noob. Here's "Hello there" in c
+Me code noob 🥺👉👈. Here's "Hello there" in c
 
 ```c
 uint64_t F = 0x593E2C888; while(F) { putchar((0x74726F6C68654820 >> (((F >>= 3) & 7) << 3)) & 0xFF); }
