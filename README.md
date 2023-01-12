@@ -12,7 +12,6 @@ uint64_t F = 0x593E2C888; while(F) { putchar((0x74726F6C68654820 >> (((F >>= 3) 
 
 - 📄 Know about my experiences [here](https://github.com/ashis0013/ashis0013/files/8581222/CV.2.pdf)
 
-- ⚡ Fun fact **OOP is trash**
 
 ## Connect with me
 <p align="left">
