@@ -31,7 +31,8 @@ uint64_t F = 0x593E2C888; while(F) { putchar((0x74726F6C68654820 >> (((F >>= 3) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashis0013&label=Profile%20views&color=0e75b6&style=flat" alt="ashis0013" /> </p>
 
 ## Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashis0013&theme=tokyonight&layout=compact&exclude_repo=nvim-config)](https://github-readme-stats.vercel.app/api/top-langs/?username=ashis0013&theme=tokyonight&layout=compact&exclude_repo=nvim-config)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashis0013&theme=tokyonight&layout=compact&exclude_repo=nvim-config,nvim)](https://github-readme-stats.vercel.app/api/top-langs/?username=ashis0013&theme=tokyonight&layout=compact&exclude_repo=nvim-config,nvim)
+
 
 ![Ashis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashis0013&show_icons=true&count_private=true&hide_rank=true&theme=tokyonight)
 
