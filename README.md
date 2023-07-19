@@ -1,14 +1,14 @@
 ### Hi there 👋 I am Ashis Paul
 
-I am a newgrad software engineer and I have interests in android development, deep learning and functional programming. I am a big proponent of writing declarative, beautiful and less code. I currently work at <a href="https://www.compass.com/">Compass</a> as a SDE. Here I am working on native android development, backend development and much more. BTW here's "Hello there" in C
+I am a software engineer with 2 years of experience, interested in full-stack development, deep learning and functional programming. I am a big proponent of writing declarative, aesthetic yet less code. I currently work at <a href="https://blox.xyz/">Blox</a> as an SDE. At my current organisation, I am working heavily on both frontend and backend as well as playing around with neural networks to come up with new AI products that add value to the business. BTW here's "Hello there" in C
 
 ```c
 uint64_t F = 0x593E2C888; while(F) { putchar((0x74726F6C68654820 >> (((F >>= 3) & 7) << 3)) & 0xFF); }
 ```
 
-- 🌱 I’m currently learning **Haskell and FP**
+- 🌱 I’m currently trying to learn **Rust and Haskell**
 
-- 💬 Ask me about **Deep learning, Android development**
+- 💬 Ask me about **Deep learning, Fullstack development**
 
 - 📄 Know about my experiences [here](https://github.com/ashis0013/ashis0013/files/8581222/CV.2.pdf)
 
